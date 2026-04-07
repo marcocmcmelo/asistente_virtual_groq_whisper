@@ -12,10 +12,15 @@ Este projeto é um **Assistente Virtual com suporte a voz**, capaz de:
 ## Funcionalidades
 
 ✔ Transcrição de áudio (Speech-to-Text)
+
 ✔ Geração de respostas com IA
+
 ✔ Conversão de texto para voz (Text-to-Speech)
+
 ✔ Áudio final unificado e natural
+
 ✔ Divisão inteligente de texto para melhor leitura
+
 ✔ Tratamento de pausas para fala mais humana
 
 ---
